@@ -21,5 +21,5 @@ We were asked to gather the following information:
         
 In the SQL file ![Employee_db Queries](https://github.com/savi09/Historical_Employee_Info/blob/main/Employee_db%20Queries.sql) you will find eight queries broken up for each segment above.
 
-To gather this information, employee_db database was used. An entity relationship diagram (ERD) can be found below and with the files in this github
+To gather this information, employee_db database was used. An entity relationship diagram (ERD) can be found below and with the files in this github.
 ![](https://github.com/savi09/Historical_Employee_Info/blob/92cc4da5517f0c5493cd473cdb1574116a97ebd3/Employee_db%20ERD.png)
